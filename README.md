@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abdelrahman Mohammed
 
-<!--
-**AbdelrahmanM972002/AbdelrahmanM972002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Generative AI Engineer
 
-Here are some ideas to get you started:
+Building LLM-powered systems | RAG | AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-mo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/1CC3999cmj">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
+</p>
