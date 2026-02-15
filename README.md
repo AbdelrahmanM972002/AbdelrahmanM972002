@@ -1,10 +1,12 @@
 # Abdelrahman Mohammed
 
 ## 🚀 Generative AI Engineer
-Building advanced AI systems leveraging Large Language Models (LLMs) to understand, generate, and interact with natural language data. 
-Designing and implementing Retrieval-Augmented Generation (RAG) pipelines for efficient knowledge retrieval and context-aware responses. 
-Developing autonomous AI agents capable of performing tasks, decision-making, and automating workflows. 
-Experienced in integrating AI models with APIs and external systems to create scalable, real-world solutions that bridge AI research and practical applications.
+
+Building AI systems with Large Language Models (LLMs) to understand, generate, and interact with language.  
+Designing Retrieval-Augmented Generation (RAG) pipelines for smarter knowledge retrieval and context-aware responses.  
+Developing autonomous AI agents to perform tasks, make decisions, and automate workflows.  
+Integrating AI models with APIs and external systems to deliver scalable, real-world solutions.
+
 ---
 
 ## 🌐 Connect With Me
@@ -14,10 +16,10 @@ Experienced in integrating AI models with APIs and external systems to create sc
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 
-  <a href="https://www.facebook.com/abdelrahman.mo">
+  <a href="https://www.facebook.com/share/1CC3999cmJ/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
 </p>
 
 **LinkedIn:** [https://www.linkedin.com/in/abdelrahman-mo](https://www.linkedin.com/in/abdelrahman-mo)  
-**Facebook:** [https://www.facebook.com/abdelrahman.mo](https://www.facebook.com/abdelrahman.mo)
+**Facebook:** [https://www.facebook.com/share/1CC3999cmJ/](https://www.facebook.com/share/1CC3999cmJ/)
